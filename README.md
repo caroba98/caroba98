@@ -7,7 +7,7 @@ skills to build robust and visually engaging applications. Let's connect and cod
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/caroline-baumeister/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caroline baumeister" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/caroline-baumeister/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="caroline baumeister"/></a>
 </p>
 
 
